@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-DL6sWmTo.js","./index-CvPvGsAJ.js","./index-CoEEE7Px.css"])))=>i.map(i=>d[i]);
-import{i as e,t}from"./index-CvPvGsAJ.js";var n=e(`GoogleAuth`,{web:()=>t(()=>import(`./web-DL6sWmTo.js`).then(e=>new e.GoogleAuthWeb),__vite__mapDeps([0,1,2]),import.meta.url)});export{n as GoogleAuth};
